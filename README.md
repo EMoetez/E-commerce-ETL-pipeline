@@ -104,10 +104,6 @@ This project is licensed under the MIT License.
 ### Summary
 
 This `README.md` file provides a clear and comprehensive overview of your project, including its features, structure, and instructions for getting started. It also includes sections for running the scripts and unit tests, contributing, and the project license. This will help others understand and use your project effectively. If you encounter any issues or need further assistance, feel free to ask.
-### Summary
-
-This `README.md` file provides a clear and comprehensive overview of your project, including its features, structure, and instructions for getting started. It also includes sections for running the scripts and unit tests, contributing, and the project license. This will help others understand and use your project effectively. If you encounter any issues or need further assistance, feel free to ask.
-
 
 
 
