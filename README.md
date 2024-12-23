@@ -90,9 +90,8 @@ This project is an ETL (Extract, Transform, Load) pipeline designed to analyze c
 To run the unit tests, execute the following command:
 
     
-```sh
-    
-    python -m unittest test_load_data.py
+```sh   
+python -m unittest test_load_data.py
 ```
 
 ### Contributing
